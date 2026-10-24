@@ -1,0 +1,13 @@
+=====================================
+gVisor Feasibility Test
+=====================================
+
+[1/6] Checking environment...
+  OS: Unknown
+  Kernel: 3.6.4-b9f03e96.x86_64
+  Architecture: x86_64
+
+[2/6] Checking Docker...
+  Docker found: Docker version 29.5.2, build 79eb04c
+  Docker daemon: Not running or no permission
+  SKIP: Cannot test without Docker
